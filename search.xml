@@ -1,78 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>博客语法</title>
-    <url>/2025/02/21/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</url>
-    <content><![CDATA[<p>测试测试测试测试测试测试测试测试测试测试<br>测试测试测试测试测试测试测试测试测试测试<br>测试测试测试测试测试测试测试测试测试测（59字）<br>简介写59字</p>
-<h1 id="标题1"><a href="#标题1" class="headerlink" title="标题1"></a>标题1</h1><h2 id="标题2"><a href="#标题2" class="headerlink" title="标题2"></a>标题2</h2><h3 id="标题3"><a href="#标题3" class="headerlink" title="标题3"></a>标题3</h3><h4 id="标题4"><a href="#标题4" class="headerlink" title="标题4"></a>标题4</h4><h5 id="标题5"><a href="#标题5" class="headerlink" title="标题5"></a>标题5</h5><h6 id="标题6"><a href="#标题6" class="headerlink" title="标题6"></a>标题6</h6><hr>
-<h2 id="分割线上方的也是标题2"><a href="#分割线上方的也是标题2" class="headerlink" title="分割线上方的也是标题2"></a>分割线上方的也是标题2</h2><p>正文</p>
-<blockquote>
-<p>这是一段引用</p>
-</blockquote>
-<br>
-
-<p>把大象放进冰箱:</p>
-<ol>
-<li>打开冰箱</li>
-<li>把大象装进冰箱</li>
-<li>关上冰箱</li>
-</ol>
-<p>无序列表：</p>
-<ul>
-<li>张三</li>
-<li>李四</li>
-<li>王五</li>
-</ul>
-<p>目标：</p>
-<ul>
-<li><input checked="" disabled="" type="checkbox"> 活着</li>
-<li><input disabled="" type="checkbox"> cf rating 2100</li>
-<li><input disabled="" type="checkbox"> icpc 区域赛金牌</li>
-<li><input disabled="" type="checkbox"> worldfinal</li>
-</ul>
-<p>代码块：</p>
-<figure class="highlight cpp"><table><tr><td class="code"><pre><span class="line"><span class="meta">#<span class="keyword">include</span> <span class="string">&lt;iostream&gt;</span></span></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> std;</span><br><span class="line"><span class="function"><span class="type">int</span> <span class="title">main</span><span class="params">()</span> </span>&#123;</span><br><span class="line">    cout &lt;&lt; <span class="string">&quot;Hello World&quot;</span> &lt;&lt; endl;</span><br><span class="line">    <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-<p><em>斜体</em> <strong>加粗</strong> <code>cout &lt;&lt; endl</code> <u>下划线</u> <del>删除线</del></p>
-<p>数学公式：<br>$$<br>\frac{\partial f}{\partial x} &#x3D; 2\sqrt{a}x<br>$$</p>
-<p>表格: </p>
-<table>
-<thead>
-<tr>
-<th align="left">姓名</th>
-<th align="right">年龄</th>
-<th align="center">成绩</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="left">张三</td>
-<td align="right">19</td>
-<td align="center">99</td>
-</tr>
-<tr>
-<td align="left">李四</td>
-<td align="right">20</td>
-<td align="center">100</td>
-</tr>
-</tbody></table>
-<p>超链接: <a href="http://www.baidu.com/" title="鼠标放上去会看见">百度</a><br>引用超链接：<a href="http://www.baidu.com/" title="鼠标放上去会看见">百度</a> <a href="http://www.baidu.com/" title="鼠标放上去会看见">百度</a> <a href="http://www.baidu.com/" title="鼠标放上去会看见">百度</a> <a href="http://www.baidu.com/" title="鼠标放上去会看见">百度</a><br>URL: <a href="http://www.baidu.com/">http://www.baidu.com</a></p>
-<p>图片的引用<br><img src="https://wallpaperm.cmcm.com/0feb1a932efcb5aa8c20423e777c277d.jpg" alt="ll"></p>
-]]></content>
-      <tags>
-        <tag>LeetCode</tag>
-        <tag>Codeforces</tag>
-        <tag>AtCoder</tag>
-        <tag>牛客</tag>
-        <tag>洛谷</tag>
-        <tag>PTA</tag>
-        <tag>HDU</tag>
-        <tag>POJ</tag>
-        <tag>搜索</tag>
-        <tag>并查集</tag>
-        <tag>排序</tag>
-        <tag>STL</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>并查集和最小生成树</title>
     <url>/2025/03/04/%E5%B9%B6%E6%9F%A5%E9%9B%86%E5%92%8C%E6%9C%80%E5%B0%8F%E7%94%9F%E6%88%90%E6%A0%91/</url>
     <content><![CDATA[<blockquote>
@@ -169,9 +97,49 @@
         <category>算法优化</category>
       </categories>
       <tags>
-        <tag>PTA</tag>
         <tag>并查集</tag>
         <tag>最小生成树</tag>
+        <tag>PTA</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>CF2065 E. Skibidus and Rizz</title>
+    <url>/2025/03/06/CF2065-E-Skibidus-and-Rizz/</url>
+    <content><![CDATA[<blockquote>
+<p>题目链接：<a href="https://codeforces.com/contest/2065/problem/E">https://codeforces.com/contest/2065/problem/E</a></p>
+</blockquote>
+<h2 id="题目大意"><a href="#题目大意" class="headerlink" title="题目大意"></a>题目大意</h2><p>二进制字符串中 1 的个数为 x ；0 的个数为 y<br>定义该字符串平衡值为<code>max(x-y, y-x);</code></p>
+<p>现在给你多组数据<br>每组数据包括</p>
+<ul>
+<li><code>n</code>：0 的数量</li>
+<li><code>m</code>：1 的数量</li>
+<li><code>k</code>：字符串所有字串的最大平衡值</li>
+</ul>
+<p>现在构造长度为<code>n+m</code>的字符串<br>如果构造不出就输出<code>-1</code></p>
+<h2 id="解题思路"><a href="#解题思路" class="headerlink" title="解题思路"></a>解题思路</h2><p>注意到<code>max(x-y, y-x)</code>等价于<code>max(x, y) - min(x, y)</code><br>说白了平衡值就是字符串里多的那个字符数减去另一字符数</p>
+<p>这时候用我们惊人的注意力发现：</p>
+<ul>
+<li><code>max(n, m) &lt; k</code>时没办法构造，把多的字符连一块都够不上平衡值</li>
+<li><code>max(n-m, m-n) &gt; k</code>时也没办法构造，不管怎么构造这个值是绕不过的平衡值</li>
+</ul>
+<p>确保字符能构造出目标字符串后：</p>
+<ol>
+<li>将多的那个字符叫做a，另一个叫做b</li>
+<li>排 k 个 a （确保有平衡值为 k）</li>
+<li>剩下的 a 和 b 交错排列（b 靠前，这样可以保证平衡值不增加）</li>
+<li>排完剩下的 b（因为中间交错排列的 a数量 等于 b数量，所以最后剩下的 b数量 肯定小于等于 k）</li>
+</ol>
+<h2 id="AC代码"><a href="#AC代码" class="headerlink" title="AC代码"></a>AC代码</h2><figure class="highlight cpp"><table><tr><td class="code"><pre><span class="line"><span class="meta">#<span class="keyword">include</span> <span class="string">&lt;bits/stdc++.h&gt;</span></span></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> std;</span><br><span class="line"><span class="meta">#<span class="keyword">define</span> ll long long</span></span><br><span class="line"><span class="meta">#<span class="keyword">define</span> endl <span class="string">&#x27;\n&#x27;</span></span></span><br><span class="line"><span class="meta">#<span class="keyword">define</span> LNF 1e18</span></span><br><span class="line"><span class="meta">#<span class="keyword">define</span> INF 0x3f3f3f3f</span></span><br><span class="line"><span class="meta">#<span class="keyword">define</span> abs(x) llabs(x)</span></span><br><span class="line"><span class="function"><span class="type">void</span> <span class="title">solve</span><span class="params">()</span></span>&#123;</span><br><span class="line">    <span class="type">int</span> n,m,k;cin &gt;&gt; n &gt;&gt; m &gt;&gt; k;</span><br><span class="line"></span><br><span class="line">    <span class="keyword">if</span> (<span class="built_in">max</span>(n-m, m-n) &gt; k || (<span class="built_in">max</span>(n, m) &lt; k)) &#123;</span><br><span class="line">        cout &lt;&lt; <span class="number">-1</span> &lt;&lt; endl;</span><br><span class="line">        <span class="keyword">return</span>;</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    <span class="comment">// a为数量多的字符，b为另一个</span></span><br><span class="line">    <span class="type">char</span> a = <span class="string">&#x27;0&#x27;</span>;</span><br><span class="line">    <span class="type">char</span> b = <span class="string">&#x27;1&#x27;</span>;</span><br><span class="line">    <span class="keyword">if</span> (m &gt;= n) &#123;</span><br><span class="line">        <span class="built_in">swap</span>(a, b);</span><br><span class="line">        <span class="built_in">swap</span>(n, m);</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    <span class="keyword">for</span> (<span class="type">int</span> i = <span class="number">0</span>; i &lt; k; i++) cout &lt;&lt; a; <span class="comment">// 打印 k 个 a</span></span><br><span class="line">    <span class="keyword">for</span> (<span class="type">int</span> i = <span class="number">0</span>; i &lt; n-k; i++) cout &lt;&lt; b &lt;&lt; a; <span class="comment">// 交错打印剩下的 a</span></span><br><span class="line">    <span class="keyword">for</span> (<span class="type">int</span> i = <span class="number">0</span>;i &lt; m-n+k; i++) cout &lt;&lt; b; <span class="comment">// 打印剩下的 b </span></span><br><span class="line">    cout &lt;&lt; endl;</span><br><span class="line">&#125;</span><br><span class="line"><span class="function"><span class="type">int</span> <span class="title">main</span><span class="params">()</span> </span>&#123;</span><br><span class="line">    ios::<span class="built_in">sync_with_stdio</span>(<span class="literal">false</span>);</span><br><span class="line">    cin.<span class="built_in">tie</span>(<span class="literal">nullptr</span>);cout.<span class="built_in">tie</span>(<span class="literal">nullptr</span>);</span><br><span class="line">    <span class="type">int</span> T;cin &gt;&gt; T;</span><br><span class="line">    <span class="keyword">while</span> (T--) <span class="built_in">solve</span>();</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<h2 id="反思"><a href="#反思" class="headerlink" title="反思"></a>反思</h2><p>重新写一遍这个代码的时候我突然想到并没有保证交错打印时 b 的数量足够<br>后面突然想到 <code>n = max(n, m)</code> 并且 走到下面证明 <code>max(n, m) - min(n, m) &gt;= k</code><br>所以 <code>m &gt;= n-k</code>，交错打印时 b 的数量肯定足够<br>从今天开始每天写一道大于当前 rating 400 分的题解，就归类至每日一题好了</p>
+]]></content>
+      <categories>
+        <category>每日一题</category>
+      </categories>
+      <tags>
+        <tag>Codeforces</tag>
+        <tag>1600</tag>
+        <tag>构造</tag>
       </tags>
   </entry>
   <entry>
@@ -203,8 +171,8 @@
         <category>算法入门班</category>
       </categories>
       <tags>
-        <tag>牛客</tag>
         <tag>分治</tag>
+        <tag>牛客</tag>
       </tags>
   </entry>
   <entry>
@@ -250,12 +218,75 @@
       </tags>
   </entry>
   <entry>
-    <title>线段树模板三</title>
-    <url>/2025/02/21/%E7%BA%BF%E6%AE%B5%E6%A0%91%E6%A8%A1%E6%9D%BF%E4%B8%89/</url>
-    <content><![CDATA[]]></content>
+    <title>博客语法</title>
+    <url>/2025/02/21/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</url>
+    <content><![CDATA[<p>测试测试测试测试测试测试测试测试测试测试<br>测试测试测试测试测试测试测试测试测试测试<br>测试测试测试测试测试测试测试测试测试测（59字）<br>简介写59字</p>
+<h1 id="标题1"><a href="#标题1" class="headerlink" title="标题1"></a>标题1</h1><h2 id="标题2"><a href="#标题2" class="headerlink" title="标题2"></a>标题2</h2><h3 id="标题3"><a href="#标题3" class="headerlink" title="标题3"></a>标题3</h3><h4 id="标题4"><a href="#标题4" class="headerlink" title="标题4"></a>标题4</h4><h5 id="标题5"><a href="#标题5" class="headerlink" title="标题5"></a>标题5</h5><h6 id="标题6"><a href="#标题6" class="headerlink" title="标题6"></a>标题6</h6><hr>
+<h2 id="分割线上方的也是标题2"><a href="#分割线上方的也是标题2" class="headerlink" title="分割线上方的也是标题2"></a>分割线上方的也是标题2</h2><p>正文</p>
+<blockquote>
+<p>这是一段引用</p>
+</blockquote>
+<br>
+
+<p>把大象放进冰箱:</p>
+<ol>
+<li>打开冰箱</li>
+<li>把大象装进冰箱</li>
+<li>关上冰箱</li>
+</ol>
+<p>无序列表：</p>
+<ul>
+<li>张三</li>
+<li>李四</li>
+<li>王五</li>
+</ul>
+<p>目标：</p>
+<ul>
+<li><input checked="" disabled="" type="checkbox"> 活着</li>
+<li><input disabled="" type="checkbox"> cf rating 2100</li>
+<li><input disabled="" type="checkbox"> icpc 区域赛金牌</li>
+<li><input disabled="" type="checkbox"> worldfinal</li>
+</ul>
+<p>代码块：</p>
+<figure class="highlight cpp"><table><tr><td class="code"><pre><span class="line"><span class="meta">#<span class="keyword">include</span> <span class="string">&lt;iostream&gt;</span></span></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> std;</span><br><span class="line"><span class="function"><span class="type">int</span> <span class="title">main</span><span class="params">()</span> </span>&#123;</span><br><span class="line">    cout &lt;&lt; <span class="string">&quot;Hello World&quot;</span> &lt;&lt; endl;</span><br><span class="line">    <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<p><em>斜体</em> <strong>加粗</strong> <code>cout &lt;&lt; endl</code> <u>下划线</u> <del>删除线</del></p>
+<p>数学公式：<br>$$<br>\frac{\partial f}{\partial x} &#x3D; 2\sqrt{a}x<br>$$</p>
+<p>表格: </p>
+<table>
+<thead>
+<tr>
+<th align="left">姓名</th>
+<th align="right">年龄</th>
+<th align="center">成绩</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left">张三</td>
+<td align="right">19</td>
+<td align="center">99</td>
+</tr>
+<tr>
+<td align="left">李四</td>
+<td align="right">20</td>
+<td align="center">100</td>
+</tr>
+</tbody></table>
+<p>超链接: <a href="http://www.baidu.com/" title="鼠标放上去会看见">百度</a><br>引用超链接：<a href="http://www.baidu.com/" title="鼠标放上去会看见">百度</a> <a href="http://www.baidu.com/" title="鼠标放上去会看见">百度</a> <a href="http://www.baidu.com/" title="鼠标放上去会看见">百度</a> <a href="http://www.baidu.com/" title="鼠标放上去会看见">百度</a><br>URL: <a href="http://www.baidu.com/">http://www.baidu.com</a></p>
+<p>图片的引用<br><img src="https://wallpaperm.cmcm.com/0feb1a932efcb5aa8c20423e777c277d.jpg" alt="ll"></p>
+]]></content>
       <tags>
+        <tag>并查集</tag>
+        <tag>PTA</tag>
+        <tag>Codeforces</tag>
         <tag>牛客</tag>
-        <tag>线段树</tag>
+        <tag>LeetCode</tag>
+        <tag>AtCoder</tag>
+        <tag>洛谷</tag>
+        <tag>HDU</tag>
+        <tag>POJ</tag>
+        <tag>搜索</tag>
+        <tag>排序</tag>
+        <tag>STL</tag>
       </tags>
   </entry>
   <entry>
@@ -286,6 +317,15 @@
       <categories>
         <category>算法学习</category>
       </categories>
+      <tags>
+        <tag>牛客</tag>
+        <tag>线段树</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>线段树模板三</title>
+    <url>/2025/02/21/%E7%BA%BF%E6%AE%B5%E6%A0%91%E6%A8%A1%E6%9D%BF%E4%B8%89/</url>
+    <content><![CDATA[]]></content>
       <tags>
         <tag>牛客</tag>
         <tag>线段树</tag>
